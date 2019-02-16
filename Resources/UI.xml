@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UI>
+    <name ItemLabel="点击图标使用道具
+          图标为灰色为不使用"/>
+    <name AllScore="总分:"/>
+    <name Have="已拥有:"/>
+    <name WinScore="通关奖励:"/>
+    <name Money="金币:"/>
+    <name Error1="金币不足"/>
+    <name Error2="请先购买"/>
+    <name Error3="已满级"/>
+    <name Error4="请先通过当前关卡"/>
+    <name Error5="已全部通关"/>
+    <name PlaneLabel="出战飞机"/>
+    <name Skill="技能"/>
+    <name Item="道具"/>
+    <name Plane="飞机"/>
+    <name Buy="购买"/>
+    <name BuyTrue="购买成功"/>
+    <name UpTrue="升级成功"/>
+    <name Upgrade="升级"/>
+    <name BuyFalse="未购买"/>
+    <name BuyT="已购买"/>
+    <name Skill_label="点击图标购买或升级"/>
+    <name Item_label="点击图标购买"/>
+    <name Skill_Text="每升一级持续时间+1s
+冷却时间-1s"/>
+    <name Skill_1="提升10倍攻击速度"/>
+    <name Skill_2="免疫一切子弹攻击"/>
+    <name Skill_Level="当前等级:"/>
+    <name Skill_Time="持续时间:"/>
+    <name Skill_CD="冷却时间:"/>
+    <name Skill_BuyMoney="购买金币:"/>
+    <name Skill_UpMoney="升级金币:"/>
+
+    <name ATK="攻击力:"/>
+    <name HP="生命值:"/>
+    <name BulletCount="子弹数量:"/>
+
+    <name HP_Item="使用后生命值增加100"/>
+    <name ATK_Item="使用后攻击力+1"/>
+    <name BossHP_Item="使用后BOSS HP减少20%"/>
+    <name Blood_Item="使用后杀死敌人生命值+1"/>
+</UI>
